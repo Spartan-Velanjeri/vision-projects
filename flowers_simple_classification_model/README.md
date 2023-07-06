@@ -52,20 +52,26 @@ Dropout=0.1
 ![Accuracy Graph with the second model, Dropout=0.1](images/dropout0.1.png)
 
 Dropout=0.2
+
 ![Accuracy Graph with the second model, Dropout=0.2](images/dropout0.2.png)
 
 Dropout=0.3
+
 ![Accuracy Graph with the second model, Dropout=0.3](images/dropout0.3.png)
 
 Dropout=0.4
+
 ![Accuracy Graph with the second model, Dropout=0.4](images/dropout0.4.png)
 
 Dropout=0.5
+
 ![Accuracy Graph with the second model, Dropout=0.5](images/dropout0.5.png)
 
 Dropout of 0.2 is seeming to be the better option compared to the other options above.
 
 Finally, getting with one picture of a red sunflower using the tflite model interpreter. 
+
+
 ![Image Fed in](images/red_sunflower.png)
 
 
